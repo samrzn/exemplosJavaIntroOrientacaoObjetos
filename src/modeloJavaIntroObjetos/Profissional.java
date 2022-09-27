@@ -14,4 +14,4 @@ public class Profissional extends Pessoa {
 		super.exibir();
 		System.out.println("Profissão: " + profissao);
 	}
-}
+} 
