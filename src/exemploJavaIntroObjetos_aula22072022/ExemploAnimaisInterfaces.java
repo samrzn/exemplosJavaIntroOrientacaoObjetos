@@ -24,4 +24,4 @@ public class ExemploAnimaisInterfaces {
 		for (Ave a : aves)
 			jogue30Andar(a);
 	}
-}
+} 

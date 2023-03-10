@@ -4,4 +4,4 @@ package exemploJavaAnimais;
 
 public abstract class Ave extends Animal {
 
-}
+} 

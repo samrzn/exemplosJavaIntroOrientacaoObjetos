@@ -4,4 +4,4 @@ package interfaceJavaIntro;
 
 public interface I_Voar {
 	void voar();
-}
+} 

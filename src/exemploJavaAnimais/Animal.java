@@ -4,4 +4,4 @@ package exemploJavaAnimais;
 
 public abstract class Animal {
 	public String nome;
-}
+} 

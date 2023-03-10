@@ -28,4 +28,4 @@ public class ExemploObjetoPessoa {
 		p2.exibir();
 		p3.exibir();
 	}
-}
+} 

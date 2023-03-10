@@ -27,4 +27,4 @@ public class Pinguim extends Ave implements I_Andar, I_Navegar {
 	public void pular() {
 		// TODO Auto-generated method stub	
 	}
-}
+} 

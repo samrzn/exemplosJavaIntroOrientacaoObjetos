@@ -19,4 +19,4 @@ public class ExObjetoAdesivo {
 		
 		throw new RuntimeException("Simulação de erro.");
 	}
-}
+} 

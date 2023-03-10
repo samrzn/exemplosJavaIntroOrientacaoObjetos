@@ -11,4 +11,4 @@ public class Galinha extends Ave implements I_Voar {
 	public void voar() {
 		System.out.println("Galinha tentou voar mas apenas planou... :-(");	
 	}
-}
+} 

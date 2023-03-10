@@ -5,4 +5,4 @@ package interfaceJavaIntro;
 public interface I_Andar {
 	void mover();
 	void pular();
-}
+} 

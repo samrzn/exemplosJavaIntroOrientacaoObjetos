@@ -24,4 +24,4 @@ public class Adesivo {
 	public void setSentido(String sentido) {
 		this.sentido = sentido;
 	}
-}
+} 

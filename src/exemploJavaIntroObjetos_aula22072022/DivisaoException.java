@@ -12,4 +12,4 @@ public class DivisaoException extends Exception {
 	public DivisaoException(int x, int y) {
 		super("Erro ao dividir o número " + x + " por " + y + ".");
 	}
-}
+} 

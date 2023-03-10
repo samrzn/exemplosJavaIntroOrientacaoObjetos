@@ -5,4 +5,4 @@ package interfaceJavaIntro;
 public interface I_Navegar {
 	void flutuar();
 	void submergir();
-}
+} 
